@@ -1,0 +1,21 @@
+.ttt-table{
+  margin: auto;
+}
+
+td{
+  width: 120px;
+  height: 120px;
+  border: 3px solid black;
+}
+
+h1{
+  font-size: 5em;
+}
+
+div{
+  text-align: center;
+}
+.slotsize{
+  width: 117px;
+  height: 90px;
+}

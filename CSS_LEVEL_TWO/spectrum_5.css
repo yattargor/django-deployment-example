@@ -1,0 +1,40 @@
+h1{
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1em;
+}
+table{
+  margin: auto;
+}
+td{
+  border: 3px solid white;
+}
+#onetd{
+  background-color: #26547C;
+  width: 150px;
+  height: 300px;
+}
+
+#twotd{
+  background-color: #EF476F;
+  width: 150px;
+  height: 300px;
+}
+
+#threetd{
+  background-color: #FFD166;
+  width: 150px;
+  height: 300px;
+}
+
+#fourtd{
+  background-color: #06D6A0;
+  width: 150px;
+  height: 300px;
+}
+
+#fifthtd{
+  background-color: #8C8A88;
+  width: 150px;
+  height: 300px;
+}
