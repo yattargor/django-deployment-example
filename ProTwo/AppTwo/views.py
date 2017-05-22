@@ -4,3 +4,7 @@ from django.http import HttpResponse
 
 def index(request):
     return HttpResponse('<em>My Second App del cazzo</em>')
+
+def help(request):
+    two_dict = {'help_me':"I inserted this help notations!"}
+    return render(request,'AppTwo/help.html', context = two_dict)
