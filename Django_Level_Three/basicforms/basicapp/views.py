@@ -9,7 +9,7 @@ def form_name_view(request):
     form = forms.FormName() #instance della FormName class here
 
     if request.method == 'POST':
-        form = form = forms.FormName(request.POST)
+        form = forms.FormName(request.POST)
 
         if form.is_valid(): #validation routines for all fields
             #DO SOMETHING CODE
